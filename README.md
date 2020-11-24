@@ -12,3 +12,5 @@ https://emilykidd3.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Emily Kidd
+
+### ©️2019 Run Buddy, Inc 
